@@ -70,7 +70,7 @@ Please make sure your code adheres to our coding standards and includes appropri
 
 For any questions or inquiries, please contact us at:
 
-- *Email*: [.com](mailto:chakrabortysuman599@gmail.com)
+- *Email*: [chakrabortysuman599@gmail.com](mailto:chakrabortysuman599@gmail.com)
 - *GitHub Issues*: [Open an issue](https://github.com/suman599/College-Website/issues)
 
 ---
